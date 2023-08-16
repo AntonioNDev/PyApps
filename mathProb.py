@@ -27,6 +27,5 @@ def odd_or_even(x):
    plt.plot(xpoint, ypoint)
    plt.show()
 
-   
-odd_or_even(int(input("Write a positive number: ")))      
+   odd_or_even(int(input("Write a positive number: ")))      
 
